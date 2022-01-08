@@ -1,7 +1,7 @@
 # multiplayer-bingo
-An N player game of Bingo in Java.
+An N player game of Bingo in Java, created in partial fulfillment of CS F212, Object Oriented Programming
 
-IMPORTANT: You will find the main method inside the Game.java file.
+Important: You will find the main method inside the Game.java file.
 	
 Design Patterns: Observer Design Pattern (Observed class: Moderator, Observer class: Player); Singletons (Moderator, Resources, FileOP and SysOP); Strategy Design Pattern (Interface: Output, Classes: FileOP and SysOP)
 
